@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor MRI Classification using Swin Transformer
+# 🧠 Brain Tumor Classification using **Swin Transformer**
 
 ## 📌 Overview
 
